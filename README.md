@@ -44,6 +44,8 @@ Telegram bot that converts text or voice messages into structured ClickUp tasks 
 ### 🛠️ Tech I work with
 Python · JavaScript · React.js · Next.js · Tailwind CSS · SQL · n8n · Flask · REST APIs · OAuth 2.0 · Prompt Engineering · RAG
 
+---
+
 ### 📫 Let's connect
 [LinkedIn](https://www.linkedin.com/in/dheerdarji/) · 📧 work.dheer@gmail.com
 
